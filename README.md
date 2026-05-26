@@ -11,7 +11,6 @@ This repository contains IDs for stories in OLMo 3's post-training set.
 | `hf_dataset` | Hugging Face dataset name for reconstruction |
 | `id_column` | Which column in the HF dataset holds the matching identifier |
 | `id` | The record identifier (matches `id_column` in the HF dataset) |
-| `fiction` | 1 = fiction, 0 = non-fiction (per FastText classifier; F1 = 0.84) |
 
 ## Dolci Datasets on Hugging Face
 
