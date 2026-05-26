@@ -3,7 +3,7 @@ This repository contains IDs for stories in OLMo 3's post-training set.
 
 ## Released File
 
-`dolci_record_ids.csv` — 78,958 records with columns:
+`dolci_record_ids.csv` contains:
 
 | Column | Description |
 |---|---|
